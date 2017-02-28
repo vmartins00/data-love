@@ -1,2 +1,2 @@
 # data-love
-# Spark
+An analysis of text message data, including LDA.
